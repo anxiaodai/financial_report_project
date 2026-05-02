@@ -4,6 +4,7 @@ import { resolve } from 'path'
 import { viteMockServe } from 'vite-plugin-mock'
 
 export default defineConfig({
+  base: '/financial_report_project/',
   plugins: [vue(),
     viteMockServe({
       mockPath: 'mock',       // mock 文件存放目录

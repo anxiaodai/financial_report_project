@@ -18,7 +18,7 @@ export default [
           'templateName': '@cname',
           'reportType': '@cname',
           'orgRange': '@cname',
-          content: '@cname'
+          'content': '@cname',
           'indicatorCount': '@cname',
           'version': '1.0.0',
           'status': 1,
