@@ -20,7 +20,7 @@ export default [
           'orgRange': '@cname',
           'content': '@cname',
           'indicatorCount': '@cname',
-          'version': '1.0.0',
+          'version': '1.0.1',
           'status': 1,
           'createTime': '@datetime',
         }],
